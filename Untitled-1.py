@@ -33,6 +33,6 @@ if choice == "a":
 elif choice == "b":
     while i < number_of_estimates:
         outputting_modelB()
-        
+
 for string in stringHolder:
     print(string)
